@@ -1,0 +1,10 @@
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\bin\Debug\Rosticeria1.exe.config
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\bin\Debug\Rosticeria1.exe
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\bin\Debug\Rosticeria1.pdb
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\obj\Debug\Rosticeria1.csprojAssemblyReference.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\obj\Debug\Rosticeria1.Form1.resources
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\obj\Debug\Rosticeria1.Properties.Resources.resources
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\obj\Debug\Rosticeria1.csproj.GenerateResource.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\obj\Debug\Rosticeria1.csproj.CoreCompileInputs.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\obj\Debug\Rosticeria1.exe
+H:\Tec\EstructuraDatos\Programas\Unidad 1\Rosticeria1\Rosticeria1\obj\Debug\Rosticeria1.pdb
