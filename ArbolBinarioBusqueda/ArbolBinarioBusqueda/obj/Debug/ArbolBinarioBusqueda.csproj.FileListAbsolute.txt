@@ -1,0 +1,10 @@
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\ArbolBinarioBusqueda.exe.config
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\ArbolBinarioBusqueda.exe
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\bin\Debug\ArbolBinarioBusqueda.pdb
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.csprojAssemblyReference.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.Form1.resources
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.Properties.Resources.resources
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.csproj.GenerateResource.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.csproj.CoreCompileInputs.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.exe
+H:\Tec\EstructuraDatos\Programas\Unidad 3\ArbolBinarioBusqueda\ArbolBinarioBusqueda\obj\Debug\ArbolBinarioBusqueda.pdb
